@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @borisGarkov
-- 👀 I’m interested in programming, data science
+- 👀 I’m interested in programming, data analysis
 - 🌱 I’m currently learning Python, Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - boris.garkov@abv.bg
 
 <!---
 borisGarkov/borisGarkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
