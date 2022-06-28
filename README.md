@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @borisGarkov
-- 👀 I’m interested in programming, data analysis
-- 🌱 I’m currently learning Python, Django, JS, ReactJS
 - 📫 How to reach me - boris.garkov@abv.bg
 
 <!---
