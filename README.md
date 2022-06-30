@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @borisGarkov
-- 📫 How to reach me - boris.garkov@abv.bg
+- 📫 How to reach me - https://www.linkedin.com/in/boris-garkov/
 
 <!---
 borisGarkov/borisGarkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
